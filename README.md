@@ -1,6 +1,4 @@
-# Create a README.md file for the Gym Registration System project
 
-readme_content = """
 # Gym Registration System
 
 This is a web application for managing a gym registration system. Students can register for gym batches by paying a monthly fee, and the system enforces one batch per student per month. Students can request a change of batch only for the next month.
